@@ -1,0 +1,9 @@
+eBay App Version = 3.2
+eBay App Link = https://drive.google.com/drive/folders/1RxStX5EwnSk81OPXMmnK9aXwMOlxfjOG
+eBay Support = androidhelp@ebay.com
+DeviceName = Samsung M30
+PlatformName = Android
+UDID = RZ8N306D8TM
+PlatformVersion = 10
+AppPackage = com.ebay.mobile
+MainActivity = com.ebay.mobile.activities.MainActivity
